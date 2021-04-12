@@ -10,6 +10,11 @@ body{
    float: left;
    background-color:grey;     
 }
+#left-column img{
+width: 10px;
+    
+}
+
 
 #right-column img{
     width:230px;
