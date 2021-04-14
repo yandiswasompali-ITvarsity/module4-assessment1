@@ -8,7 +8,7 @@ body{
 #left-column{
    width: 60%;
    float: left;
-   background-color:aqua;     
+   background-color:grey;     
 }
 #left-column img{
     width: 100px;
